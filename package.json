@@ -16,7 +16,7 @@
     "url": "https://github.com/lawszki/FrontendTest/issues"
   },
   "homepage": "https://github.com/lawszki/FrontendTest#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }
